@@ -1,0 +1,27 @@
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,1);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+ 
+  .my-custom-control {
+  background-image: url('Casey_Trees_Logo.png');
+  background-repeat: no-repeat;
+  width:112px; /* you will likely need to specify image width and height here */
+  height:101px;}
+
+    .my-custom-control2 {
+  background-image: url('Legend Neighborhood.png');
+  background-repeat: no-repeat;
+  width:313px; /* you will likely need to specify image width and height here */
+  height:94px;}
+
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
